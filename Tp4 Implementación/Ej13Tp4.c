@@ -15,7 +15,7 @@ int main(){
 
     resultado = pow(a,y);
 
-    printf("El resultado es %d", resultado);
+    printf("El resultado es %d", resultado); //testing
 
     return 0;
     
